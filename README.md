@@ -19,8 +19,8 @@ Users can simply enter "node index.js" in their terminal and answer the prompts.
 
 [Click here to watch a video walkthrough.](https://app.screencastify.com/v2/watch/MZyVUiUfROPvU8qKcdoM)
 
-
-![This is an example of what you should see once all prompts are answered.](./Walkthrough/final-product.png)
+This is an example of what you should see once all prompts are answered:
+![image](./Walkthrough/final-product.png)
 
 
 ## Credits
